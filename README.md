@@ -14,7 +14,7 @@ This notebook is chronological from the bottom up, the file begins with loading 
 
 ### `customer_xes_analysis.ipynb`
 
-This notebook covers basic EDA on the customer log: hourly and daily arrival patterns, overall abandonment counts and rates, abandonment broken down by hour, and customer waiting times computed from Enter Queue to Start Payment events — including distributions and hourly averages. It also looks at cashier shift durations and active counter counts per hour for a selected day. 
+This notebook covers basic EDA on the customer log: hourly and daily arrival patterns, overall abandonment counts and rates, abandonment broken down by hour, and customer waiting times computed from Enter Queue to Start Payment events, including distributions and hourly averages. It also looks at cashier shift durations and active counter counts per hour for a selected day. 
 
 
 ### `simulation_results_queue_depth.ipynb`
