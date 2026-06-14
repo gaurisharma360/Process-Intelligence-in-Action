@@ -4,7 +4,7 @@ This folder contains the analysis and validation notebooks used for the supermar
 
 ## Files 
 
-### `intro_xes_combined-Copy.py`
+### `intro_xes_combined-Copy.ipynb`
 
 The analysis begins with XES log processing and event-log validation before conducting extensive temporal analyses at the hourly, daily, and weekday levels to identify workload patterns, seasonal effects, and demand fluctuations. It then investigates counter utilisation by examining customer arrivals per counter, counter opening and closing behaviour, queue lengths, queue pressure, customer distribution across counters, and resource allocation decisions. The notebook further performs detailed cart abandonment analysis, exploring abandonment trends over time, abandonment rates, customer types, basket sizes, payment methods, and the relationship between congestion, customer arrivals, and abandonment behaviour. Additional analyses focus on clerk activities such as price checks and abandoned-item cleanups to assess whether supporting processes contribute to operational bottlenecks. The notebook also tries to gather evidence, simulation results, and the impact evaluation.
    
