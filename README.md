@@ -19,7 +19,7 @@ This notebook covers basic EDA on the customer log: hourly and daily arrival pat
 
 ### `simulation_results_queue_depth.ipynb`
 
-This notebook evaluates how the interventions influenced customer patience and abandonment behaviour. The core metric is P(abandon | min queue < 4) — the conditional probability that a customer abandons their cart despite arriving when the shortest available counter line was below the standard patience threshold of four people. Queue depth is tracked at the exact moment a customer enters the checkout area, mirroring what they actually observe when deciding whether to stay. Fisher's Exact Test is performed for the key bottleneck hours (14:00, 15:00, and 19:00). The notebook produces comparison plots and summary tables covering both the binary arrival metric and the conditional abandonment rate, showing where the intervention made a measurable difference and where it didn't.
+This notebook evaluates how the interventions influenced customer patience and abandonment behaviour. The core metric is P(abandon | min queue < 4), the conditional probability that a customer abandons their cart despite arriving when the shortest available counter line was below the standard patience threshold of four people. Queue depth is tracked at the exact moment a customer enters the checkout area, mirroring what they actually observe when deciding whether to stay. Fisher's Exact Test is performed for the key bottleneck hours (14:00, 15:00, and 19:00). The notebook produces comparison plots and summary tables covering both the binary arrival metric and the conditional abandonment rate, showing where the intervention made a measurable difference and where it didn't.
 
 
 ### `supermarket_hypothesis_validation.ipynb`
