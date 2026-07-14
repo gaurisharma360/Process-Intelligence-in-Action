@@ -1,7 +1,7 @@
 # Contribution
-.#[View the report](https://github.com/gaurisharma360/Process-Intelligence-in-Action/blob/main/Final%20report%20PIA_Group4.pdf)
+#[View the report](https://github.com/gaurisharma360/Process-Intelligence-in-Action/blob/main/Final%20report%20PIA_Group4.pdf)
 
-Zero cart abandonments were achieved after the suggestions were implemented with no additional cost
+Zero cart abandonments were achieved after the suggestions were implemented with no additional cost.
 
 ## Process-Intelligence-in-Action
 
