@@ -1,3 +1,6 @@
+## Contribution##
+Zero cart abandonments were achieved after the suggestions were implemented with no additional cost.
+
 # Process-Intelligence-in-Action
 
 This folder contains the analysis and validation notebooks used for the supermarket checkout process mining project (2AMI30). The files cover exploratory data analysis, bottleneck identification, hypothesis validation, simulation evaluation, and intervention assessment.
